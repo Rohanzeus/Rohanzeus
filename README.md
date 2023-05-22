@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rohanzeus
 - 👀 I’m interested in Coding and all Tech
-- 🌱 I’m currently learning Full Stack Java Development
 - 💞️ I’m looking to collaborate on Side Projects
 - 📫 How to reach me ...
 
